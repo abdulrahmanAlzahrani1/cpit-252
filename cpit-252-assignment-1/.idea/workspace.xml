@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="FIX: bug in Product file added static to quantity">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cpit-252-assignment-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Q1/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Q1/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Q1/ProductTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_directory_selection": "D:/FCIT/CPIT-252/Assignment/cpit-252/cpit-252-assignment-1/src/test/java",
+    "last_directory_selection": "D:/FCIT/CPIT-252/Assignment/cpit-252/cpit-252-assignment-1/src/test/java/Q1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,7 +78,7 @@
       <recent name="Q1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1.App">
+  <component name="RunManager" selected="JUnit.ProductTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="edu.kau.fcit.cpit.App" />
       <module name="cpit-252-assignment-1" />
@@ -115,8 +112,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cpit-252-assignment-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Q1" />
+      <option name="MAIN_CLASS_NAME" value="Q1.ProductTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ProductTest" />
         <item itemvalue="Application.Q1.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Test" />
@@ -131,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679804611663</updated>
-      <workItem from="1679804613664" duration="4131000" />
+      <workItem from="1679804613664" duration="5140000" />
     </task>
     <task id="LOCAL-00001" summary="ADD: App and product classes">
       <created>1679805620287</created>
