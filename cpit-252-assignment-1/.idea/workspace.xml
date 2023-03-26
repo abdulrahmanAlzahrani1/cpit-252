@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="ADD: App and product classes" />
+    <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="FIX: bug in Product file added static to quantity">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpit-252-assignment-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Q1/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -44,14 +51,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_directory_selection": "D:/FCIT/CPIT-252/Assignment/cpit-252/cpit-252-assignment-1/src/test/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15527344",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
@@ -62,6 +73,12 @@
       <recent name="D:\FCIT\CPIT-252\Assignment\cpit-252\cpit-252-assignment-1\src\main\resources" />
       <recent name="D:\FCIT\CPIT-252\Assignment\cpit-252\cpit-252-assignment-1\src" />
       <recent name="D:\FCIT\CPIT-252\Assignment\cpit-252\cpit-252-assignment-1\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Q1" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Q1.App">
@@ -114,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679804611663</updated>
-      <workItem from="1679804613664" duration="2230000" />
+      <workItem from="1679804613664" duration="4131000" />
     </task>
     <task id="LOCAL-00001" summary="ADD: App and product classes">
       <created>1679805620287</created>
@@ -131,6 +148,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD: App and product classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="ADD: App and product classes" />
+    <MESSAGE value="FIX: bug in Product file added static to quantity" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: bug in Product file added static to quantity" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/cpit_252_assignment_1$Q1_App.ic" NAME="Q1.App Coverage Results" MODIFIED="1679811918536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Q1.*</FILTER>
+    </SUITE>
   </component>
 </project>
