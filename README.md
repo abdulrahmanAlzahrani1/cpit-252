@@ -62,6 +62,25 @@ note that we need to use the children constracter and that it is not nesseary to
 ---
 
 
+## Q4 [Polymorphism](https://cpit252.gitlab.io/labs/lab-1/#4-polymorphism-many-forms)
 
 
+we just need to make an array and store the objects in
+
+
+---
+
+```java
+        Product p4 = new FoodProduct(1234, 9.99, "water",LocalDate.parse("2027-07-07"));
+        FoodProduct p5 = new FoodProduct(3452, 10.0, "Cheddar Cheese", LocalDate.parse("2022-06-07"));
+        ElectricProduct p6 = new ElectricProduct(4875, 30.0, "Extension cord", "220v");
+
+        Product [] products = {p4,p5,p6};
+        for (Product p:
+             products) {
+            System.out.println(p.toString());
+        }
+```
+
+---
 
