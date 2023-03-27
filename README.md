@@ -97,4 +97,14 @@ we just need to make an array and store the objects in
 ```
 ---
 
+## Q6 [adding Order information why is this considered bad? How would you fix it? ](https://cpit252.gitlab.io/labs/lab-1/#6-abstraction)
 
+
+we need to make the `Product` has only product realted attribute we will make a new class called `Order` and pass product as an array using aggregtion 
+
+
+```java
+public Order(Product [] products, int id, String status){}
+
+```
+---
