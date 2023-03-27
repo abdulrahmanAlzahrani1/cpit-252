@@ -1,4 +1,4 @@
-package Q1;
+package cpit252;
 public class App {
     public static void main(String[]args){
         Product p1 = new Product(6745, 5.50, "Penne Pasta");

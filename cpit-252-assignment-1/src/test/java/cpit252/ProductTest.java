@@ -1,7 +1,5 @@
-package Q1;
+package cpit252;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.api.Test;
-import java.util.Random;
 
 import static org.junit.jupiter.api.Assertions.*;
 

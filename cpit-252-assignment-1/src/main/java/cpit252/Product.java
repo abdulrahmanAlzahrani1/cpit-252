@@ -1,4 +1,4 @@
-package Q1;
+package cpit252;
 
 public class Product {
     private int id;

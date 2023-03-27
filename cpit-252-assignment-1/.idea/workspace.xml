@@ -91,22 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q1.App" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="cpit-252-assignment-1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="cpit252.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cpit252.App" />
       <module name="cpit-252-assignment-1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cpit252.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,12 +115,12 @@
       <module name="cpit-252-assignment-1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Q1.*" />
+          <option name="PATTERN" value="cpit252.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Q1" />
-      <option name="MAIN_CLASS_NAME" value="Q1.ProductTest" />
+      <option name="MAIN_CLASS_NAME" value="cpit252.ProductTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,7 +129,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ProductTest" />
-        <item itemvalue="Application.Q1.App" />
+        <item itemvalue="Application.cpit252.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Test" />
       </list>
