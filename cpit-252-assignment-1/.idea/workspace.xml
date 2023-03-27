@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="FIX: bug in Product file added static to quantity">
+    <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="ADD: test for getQuantity test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Q1/ProductTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Q1/ProductTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679804611663</updated>
-      <workItem from="1679804613664" duration="5140000" />
+      <workItem from="1679804613664" duration="6705000" />
     </task>
     <task id="LOCAL-00001" summary="ADD: App and product classes">
       <created>1679805620287</created>
@@ -153,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679805620287</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ADD: test for getQuantity test">
+      <created>1679814012808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679814012808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,10 +168,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ADD: App and product classes" />
     <MESSAGE value="FIX: bug in Product file added static to quantity" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIX: bug in Product file added static to quantity" />
+    <MESSAGE value="ADD: test for getQuantity test" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD: test for getQuantity test" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cpit_252_assignment_1$Q1_App.ic" NAME="Q1.App Coverage Results" MODIFIED="1679811918536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Q1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/cpit_252_assignment_1$ProductTest.ic" NAME="ProductTest Coverage Results" MODIFIED="1679813777879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Q1.*</FILTER>
     </SUITE>
   </component>
