@@ -84,3 +84,17 @@ we just need to make an array and store the objects in
 
 ---
 
+
+## Q5 [What would you do to prevent subclasses from overriding the addToShoppingCart() method of the Product class without changing its visibility?](https://cpit252.gitlab.io/labs/lab-1/#5-controlling-changes)
+
+
+
+```java 
+    public final void addToShoppingCart(){
+        System.out.println(this.name + " has been added to the shopping cart.");
+    }
+
+```
+---
+
+
