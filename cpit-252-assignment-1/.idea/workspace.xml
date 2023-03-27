@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="ADD: test for getQuantity test">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cpit252/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cpit252/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cpit252/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cpit252/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cpit252/ElectricProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cpit252/ElectricProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cpit252/FoodProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cpit252/FoodProduct.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cpit252/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cpit252/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cpit252/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cpit252/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cpit252/ElectricProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cpit252/ElectricProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cpit252/FoodProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cpit252/FoodProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cpit252/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cpit252/Product.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

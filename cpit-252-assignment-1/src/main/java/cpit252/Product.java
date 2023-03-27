@@ -4,9 +4,20 @@ public abstract class Product {
     private int id;
     private double price;
     private String name;
-    private static int quantity;
+    private static int count;
+    private int quantity;
 
-    public Product(int id, double price, String name){
+    protected double wight;
+
+    protected double getWight() {
+        return wight;
+    }
+
+    protected void setWight(double wight) {
+        this.wight = wight;
+    }
+
+    public Product(int id, double price, int count, String name){
         this.id = id;
         this.price = price;
         this.name = name;
@@ -26,6 +37,14 @@ public abstract class Product {
 
     public void getSellableStatus(){
         System.out.println("This product is sellable");
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public static int getCount() {
+        return count;
     }
 
     public String toString(){
