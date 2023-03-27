@@ -9,11 +9,18 @@ public class App {
         Product p3 = new Product(2106, 4.50, "Linguine Pasta");
         System.out.println("Total Quantity: " + p3.getTotalQuantity());*/
 
-        Product p = new FoodProduct(1234, 9.99, "water",LocalDate.parse("2027-07-07"));
-        FoodProduct p4 = new FoodProduct(3452, 10.0, "Cheddar Cheese", LocalDate.parse("2022-06-07"));
-        ElectricProduct p5 = new ElectricProduct(4875, 30.0, "Extension cord", "220v");
+        Product p4 = new FoodProduct(1234, 9.99, "water",LocalDate.parse("2027-07-07"));
+        FoodProduct p5 = new FoodProduct(3452, 10.0, "Cheddar Cheese", LocalDate.parse("2022-06-07"));
+        ElectricProduct p6 = new ElectricProduct(4875, 30.0, "Extension cord", "220v");
+
+        Product [] products = {p4,p5,p6};
+        for (Product p:
+             products) {
+            System.out.println(p.toString());
         }
+
     }
+}
 
 
-       
+
