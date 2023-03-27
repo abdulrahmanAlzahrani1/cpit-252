@@ -16,7 +16,7 @@ public abstract class Product {
         this.price = this.price - ((percentage/100) * this.price);
     }
 
-    public void addToShoppingCart(){
+    public final void addToShoppingCart(){
         System.out.println(this.name + " has been added to the shopping cart.");
     }
 
