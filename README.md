@@ -33,8 +33,12 @@ note that the static is only for `quantuty` we do not want all object to have sa
 note that you need to check every method alone othrwise you will be ending having 5 in quantity not what you excpected.
 
 ---
-**this screeen has been taking after finshing Q3, I have take pic before but I lost it, I think I did not save changed I made to README file.**
+this screeen has been taking after finshing Q3, I have took pic before but I lost it, I think I did not save changed I made to README file.
+
+
 ---
+
+
 
 
 ## Q3 [What changes would you make  so only concrete classes should be instantiated?](https://cpit252.gitlab.io/labs/lab-1/#3-inhertiance)
