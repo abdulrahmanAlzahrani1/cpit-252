@@ -23,3 +23,15 @@ private static int quantity;
 note that the static is only for `quantuty` we do not want all object to have same price or id, so it is logical to make it an instance variables
 
 
+---
+## Q2 [complate the code](https://cpit252.gitlab.io/labs/lab-1/#2-testing)
+
+
+![Screenshot_232](https://user-images.githubusercontent.com/120954979/227857241-22688dc4-6321-45c5-9fc3-e2ab0a568023.png)
+
+---
+note that you need to check every method alone othrwise you will be ending having 5 in quantity not what you excpected.
+
+
+**this screeen has been taking after finshing Q3, I have take pic before but I lost it, I think I did not save changed I made to README file.**
+
