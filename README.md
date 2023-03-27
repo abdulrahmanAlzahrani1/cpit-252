@@ -108,3 +108,24 @@ public Order(Product [] products, int id, String status){}
 
 ```
 ---
+
+
+
+## Q7 [Encapsulation](https://cpit252.gitlab.io/labs/lab-1/#7-encapsulation)
+
+
+we make it protected so only subclassses and classes that are in same pacage can see it
+
+```java 
+protected double wight;
+
+    protected double getWight() {
+        return wight;
+    }
+
+    protected void setWight(double wight) {
+        this.wight = wight;
+    }
+```
+
+---
