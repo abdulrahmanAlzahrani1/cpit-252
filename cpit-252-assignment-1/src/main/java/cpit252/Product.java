@@ -1,6 +1,6 @@
 package cpit252;
 
-public class Product {
+public abstract class Product {
     private int id;
     private double price;
     private String name;
