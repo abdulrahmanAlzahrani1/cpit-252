@@ -32,6 +32,32 @@ note that the static is only for `quantuty` we do not want all object to have sa
 ---
 note that you need to check every method alone othrwise you will be ending having 5 in quantity not what you excpected.
 
-
+---
 **this screeen has been taking after finshing Q3, I have take pic before but I lost it, I think I did not save changed I made to README file.**
+---
+
+
+## Q3 [What changes would you make  so only concrete classes should be instantiated?](https://cpit252.gitlab.io/labs/lab-1/#3-inhertiance)
+
+
+First we need to change the product class to abstract
+
+![Screenshot_230](https://user-images.githubusercontent.com/120954979/227859021-9333a222-8a4b-4261-8f4f-d6c9a7c5fc8f.png)
+
+
+
+then change what is nessery 
+
+
+note that we need to use the children constracter and that it is not nesseary to use FoodProdect because all of them are product you need to do it in testing as well
+
+![Screenshot_235](https://user-images.githubusercontent.com/120954979/227859833-841ec080-7c45-481a-80dd-751ee08b8cfc.png)
+
+---
+![Screenshot_236](https://user-images.githubusercontent.com/120954979/227860643-6ea4e192-5955-4e62-a8cb-681939458242.png)
+---
+
+
+
+
 
