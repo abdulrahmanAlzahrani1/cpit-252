@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="ADD: test for getQuantity test">
-      <change beforePath="$PROJECT_DIR$/src/main/java/cpit252/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cpit252/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="2d8cd8e2-138d-4630-8fc6-d02bacd0123f" name="Changes" comment="ADD: test for getQuantity test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
